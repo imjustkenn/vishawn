@@ -3,14 +3,15 @@ This Ken is an aspirant programmer, motion and graphic designer, an artist, and 
 
 
 # My Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/imjustkenn) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/imjustkenn) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imjustkenn) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iimjustkenn) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imjustkenn) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kennethivansanoy) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Imjustkenn) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20611969) 
+[![Bluesky](https://img.shields.io/badge/bluesky-%23252525?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/imjustkenn) 
+[![Behance](https://img.shields.io/badge/Behance-%23252525?style=flat-square&logo=behance&logoColor=white)](https://behance.net/imjustkenn) 
+[![Facebook](https://img.shields.io/badge/Facebook-%23252525?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/imjustkenn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23252525?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iimjustkenn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23252525?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imjustkenn) 
+[![Medium](https://img.shields.io/badge/Medium-%23252525?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kennethivansanoy) 
+[![Quora](https://img.shields.io/badge/Quora-%23252525?style=flat-square&logo=Quora&logoColor=white)](https://quora.com/profile/Imjustkenn) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23252525?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20611969) 
+
 
 # Technologies:
 ![C++](https://img.shields.io/badge/c++-%23252525.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
