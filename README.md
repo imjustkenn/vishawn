@@ -1,6 +1,3 @@
-Noting that I don't use github that much but this statement will prove otherwise whether I lied or not ;)
+<b><strong>Mabuhay! This Ken is from the Philippines!</strong></b>
 
-<!---
-vishawn/vishawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
