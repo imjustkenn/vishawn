@@ -78,18 +78,4 @@ This Ken is an aspirant programmer, motion and graphic designer, an artist, and 
 ![ESLint](https://img.shields.io/badge/ESLint-%23252525?style=flat-square&logo=eslint&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23252525.svg?style=flat-square&logo=notion&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imjustkenn&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imjustkenn&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imjustkenn&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imjustkenn&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=imjustkenn&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
